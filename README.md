@@ -1,1 +1,2 @@
 # KFU
+\overrightarrow{AB}
